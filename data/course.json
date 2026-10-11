@@ -1,0 +1,3330 @@
+{
+  "version": "2026-10-10.1",
+  "title": "Wordberry · Spotlight 5",
+  "modules": [
+    {
+      "id": "starter",
+      "en": "Starter",
+      "title": "Начинаем",
+      "emoji": "👋"
+    },
+    {
+      "id": "1",
+      "en": "School days",
+      "title": "Школа",
+      "emoji": "🎒"
+    },
+    {
+      "id": "2",
+      "en": "That’s me!",
+      "title": "Это я",
+      "emoji": "🪁"
+    },
+    {
+      "id": "3",
+      "en": "My home, my castle",
+      "title": "Мой дом",
+      "emoji": "🏡"
+    },
+    {
+      "id": "4",
+      "en": "Family ties",
+      "title": "Семья",
+      "emoji": "💛"
+    },
+    {
+      "id": "5",
+      "en": "World animals",
+      "title": "Животные",
+      "emoji": "🦊"
+    },
+    {
+      "id": "6",
+      "en": "Round the clock",
+      "title": "Мой день",
+      "emoji": "⏰"
+    },
+    {
+      "id": "7",
+      "en": "In all weathers",
+      "title": "Погода и одежда",
+      "emoji": "🌦️"
+    },
+    {
+      "id": "8",
+      "en": "Special days",
+      "title": "Праздники и еда",
+      "emoji": "🎂"
+    },
+    {
+      "id": "9",
+      "en": "Modern living",
+      "title": "Город и развлечения",
+      "emoji": "🎟️"
+    },
+    {
+      "id": "10",
+      "en": "Holidays",
+      "title": "Каникулы",
+      "emoji": "🏖️"
+    }
+  ],
+  "lessons": [
+    {
+      "module": "starter",
+      "id": "starter-hello",
+      "code": "Starter · 1",
+      "title": "Знакомимся",
+      "subtitle": "Приветствия и первые фразы",
+      "source": "Учебник: с. 13, 18; рабочая тетрадь: Starter",
+      "words": [
+        {
+          "id": "w-hello",
+          "en": "hello",
+          "ru": "привет",
+          "example": "Hello, my name is Anna.",
+          "exampleRu": "Привет, меня зовут Анна.",
+          "emoji": "👋"
+        },
+        {
+          "id": "w-good-morning",
+          "en": "good morning",
+          "ru": "доброе утро",
+          "example": "Good morning, Mum!",
+          "exampleRu": "Доброе утро, мама!",
+          "emoji": "🌤️"
+        },
+        {
+          "id": "w-good-afternoon",
+          "en": "good afternoon",
+          "ru": "добрый день",
+          "example": "Good afternoon, Mr Brown!",
+          "exampleRu": "Добрый день, мистер Браун!",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-good-evening",
+          "en": "good evening",
+          "ru": "добрый вечер",
+          "example": "Good evening, Dad!",
+          "exampleRu": "Добрый вечер, папа!",
+          "emoji": "🌙"
+        },
+        {
+          "id": "w-goodbye",
+          "en": "goodbye",
+          "ru": "до свидания",
+          "example": "Goodbye, see you tomorrow!",
+          "exampleRu": "До свидания, увидимся завтра!",
+          "emoji": "👋"
+        },
+        {
+          "id": "w-my-name-is",
+          "en": "my name is",
+          "ru": "меня зовут",
+          "example": "My name is Anna.",
+          "exampleRu": "Меня зовут Анна.",
+          "emoji": "🏷️"
+        },
+        {
+          "id": "w-what-is-your-name",
+          "en": "what is your name",
+          "ru": "как тебя зовут",
+          "example": "What is your name?",
+          "exampleRu": "Как тебя зовут?",
+          "emoji": "💬"
+        },
+        {
+          "id": "w-nice-to-meet-you",
+          "en": "nice to meet you",
+          "ru": "приятно познакомиться",
+          "example": "Nice to meet you, Tom!",
+          "exampleRu": "Приятно познакомиться, Том!",
+          "emoji": "🤝"
+        }
+      ]
+    },
+    {
+      "module": "starter",
+      "id": "starter-objects",
+      "code": "Starter · 2",
+      "title": "Что в рюкзаке?",
+      "subtitle": "Предметы в классе",
+      "source": "Учебник: с. 23; рабочая тетрадь: с. 14, 17",
+      "words": [
+        {
+          "id": "w-book",
+          "en": "book",
+          "ru": "книга",
+          "example": "This is my book.",
+          "exampleRu": "Это моя книга.",
+          "emoji": "📖"
+        },
+        {
+          "id": "w-pen",
+          "en": "pen",
+          "ru": "ручка",
+          "example": "I have got a blue pen.",
+          "exampleRu": "У меня есть синяя ручка.",
+          "emoji": "🖊️"
+        },
+        {
+          "id": "w-pencil",
+          "en": "pencil",
+          "ru": "карандаш",
+          "example": "This pencil is yellow.",
+          "exampleRu": "Этот карандаш жёлтый.",
+          "emoji": "✏️"
+        },
+        {
+          "id": "w-pencil-case",
+          "en": "pencil case",
+          "ru": "пенал",
+          "example": "My pencil case is green.",
+          "exampleRu": "Мой пенал зелёный.",
+          "emoji": "👝"
+        },
+        {
+          "id": "w-rubber",
+          "en": "rubber",
+          "ru": "ластик",
+          "example": "I need a rubber.",
+          "exampleRu": "Мне нужен ластик.",
+          "emoji": "◽",
+          "aliases": [
+            "eraser"
+          ]
+        },
+        {
+          "id": "w-ruler",
+          "en": "ruler",
+          "ru": "линейка",
+          "example": "My ruler is on the desk.",
+          "exampleRu": "Моя линейка на парте.",
+          "emoji": "📏"
+        },
+        {
+          "id": "w-schoolbag",
+          "en": "schoolbag",
+          "ru": "школьный рюкзак",
+          "example": "My schoolbag is blue.",
+          "exampleRu": "Мой школьный рюкзак синий.",
+          "emoji": "🎒",
+          "aliases": [
+            "school bag"
+          ]
+        },
+        {
+          "id": "w-notebook",
+          "en": "notebook",
+          "ru": "тетрадь",
+          "example": "Open your notebook.",
+          "exampleRu": "Открой свою тетрадь.",
+          "emoji": "📓"
+        },
+        {
+          "id": "w-sharpener",
+          "en": "sharpener",
+          "ru": "точилка",
+          "example": "I have got a sharpener.",
+          "exampleRu": "У меня есть точилка.",
+          "emoji": "🔻"
+        },
+        {
+          "id": "w-desk",
+          "en": "desk",
+          "ru": "парта",
+          "example": "My book is on the desk.",
+          "exampleRu": "Моя книга на парте.",
+          "emoji": "🪑"
+        },
+        {
+          "id": "w-chair",
+          "en": "chair",
+          "ru": "стул",
+          "example": "The chair is next to the desk.",
+          "exampleRu": "Стул рядом с партой.",
+          "emoji": "🪑"
+        },
+        {
+          "id": "w-blackboard",
+          "en": "blackboard",
+          "ru": "классная доска",
+          "example": "Look at the blackboard.",
+          "exampleRu": "Посмотри на классную доску.",
+          "emoji": "⬛"
+        }
+      ]
+    },
+    {
+      "module": "starter",
+      "id": "starter-colours",
+      "code": "Starter · 3",
+      "title": "Все цвета",
+      "subtitle": "Цвета вокруг тебя",
+      "source": "Учебник: с. 22; рабочая тетрадь: с. 13",
+      "words": [
+        {
+          "id": "w-red",
+          "en": "red",
+          "ru": "красный",
+          "example": "My pen is red.",
+          "exampleRu": "Моя ручка красная.",
+          "emoji": "🔴"
+        },
+        {
+          "id": "w-blue",
+          "en": "blue",
+          "ru": "синий",
+          "example": "My schoolbag is blue.",
+          "exampleRu": "Мой школьный рюкзак синий.",
+          "emoji": "🔵"
+        },
+        {
+          "id": "w-yellow",
+          "en": "yellow",
+          "ru": "жёлтый",
+          "example": "The pencil is yellow.",
+          "exampleRu": "Карандаш жёлтый.",
+          "emoji": "🟡"
+        },
+        {
+          "id": "w-green",
+          "en": "green",
+          "ru": "зелёный",
+          "example": "The ruler is green.",
+          "exampleRu": "Линейка зелёная.",
+          "emoji": "🟢"
+        },
+        {
+          "id": "w-pink",
+          "en": "pink",
+          "ru": "розовый",
+          "example": "My notebook is pink.",
+          "exampleRu": "Моя тетрадь розовая.",
+          "emoji": "🌸"
+        },
+        {
+          "id": "w-purple",
+          "en": "purple",
+          "ru": "фиолетовый",
+          "example": "This book is purple.",
+          "exampleRu": "Эта книга фиолетовая.",
+          "emoji": "🟣"
+        },
+        {
+          "id": "w-orange",
+          "en": "orange",
+          "ru": "оранжевый",
+          "example": "My hat is orange.",
+          "exampleRu": "Моя шляпа оранжевая.",
+          "emoji": "🟠"
+        },
+        {
+          "id": "w-white",
+          "en": "white",
+          "ru": "белый",
+          "example": "The cat is white.",
+          "exampleRu": "Кошка белая.",
+          "emoji": "⚪"
+        },
+        {
+          "id": "w-black",
+          "en": "black",
+          "ru": "чёрный",
+          "example": "The dog is black.",
+          "exampleRu": "Собака чёрная.",
+          "emoji": "⚫"
+        },
+        {
+          "id": "w-brown",
+          "en": "brown",
+          "ru": "коричневый",
+          "example": "My desk is brown.",
+          "exampleRu": "Моя парта коричневая.",
+          "emoji": "🟤"
+        }
+      ]
+    },
+    {
+      "module": "starter",
+      "id": "starter-numbers",
+      "code": "Starter · 4",
+      "title": "Считаем до двадцати",
+      "subtitle": "Числа без путаницы",
+      "source": "Учебник: с. 21; рабочая тетрадь: с. 12, 18",
+      "words": [
+        {
+          "id": "w-one",
+          "en": "one",
+          "ru": "один",
+          "example": "I have got one pencil.",
+          "exampleRu": "У меня 1 карандаш.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-two",
+          "en": "two",
+          "ru": "два",
+          "example": "I have got two pencils.",
+          "exampleRu": "У меня 2 карандаша.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-three",
+          "en": "three",
+          "ru": "три",
+          "example": "I have got three pencils.",
+          "exampleRu": "У меня 3 карандаша.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-four",
+          "en": "four",
+          "ru": "четыре",
+          "example": "I have got four pencils.",
+          "exampleRu": "У меня 4 карандаша.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-five",
+          "en": "five",
+          "ru": "пять",
+          "example": "I have got five pencils.",
+          "exampleRu": "У меня 5 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-six",
+          "en": "six",
+          "ru": "шесть",
+          "example": "I have got six pencils.",
+          "exampleRu": "У меня 6 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-seven",
+          "en": "seven",
+          "ru": "семь",
+          "example": "I have got seven pencils.",
+          "exampleRu": "У меня 7 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-eight",
+          "en": "eight",
+          "ru": "восемь",
+          "example": "I have got eight pencils.",
+          "exampleRu": "У меня 8 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-nine",
+          "en": "nine",
+          "ru": "девять",
+          "example": "I have got nine pencils.",
+          "exampleRu": "У меня 9 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-ten",
+          "en": "ten",
+          "ru": "десять",
+          "example": "I have got ten pencils.",
+          "exampleRu": "У меня 10 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-eleven",
+          "en": "eleven",
+          "ru": "одиннадцать",
+          "example": "I have got eleven pencils.",
+          "exampleRu": "У меня 11 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-twelve",
+          "en": "twelve",
+          "ru": "двенадцать",
+          "example": "I have got twelve pencils.",
+          "exampleRu": "У меня 12 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-thirteen",
+          "en": "thirteen",
+          "ru": "тринадцать",
+          "example": "I have got thirteen pencils.",
+          "exampleRu": "У меня 13 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-fourteen",
+          "en": "fourteen",
+          "ru": "четырнадцать",
+          "example": "I have got fourteen pencils.",
+          "exampleRu": "У меня 14 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-fifteen",
+          "en": "fifteen",
+          "ru": "пятнадцать",
+          "example": "I have got fifteen pencils.",
+          "exampleRu": "У меня 15 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-sixteen",
+          "en": "sixteen",
+          "ru": "шестнадцать",
+          "example": "I have got sixteen pencils.",
+          "exampleRu": "У меня 16 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-seventeen",
+          "en": "seventeen",
+          "ru": "семнадцать",
+          "example": "I have got seventeen pencils.",
+          "exampleRu": "У меня 17 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-eighteen",
+          "en": "eighteen",
+          "ru": "восемнадцать",
+          "example": "I have got eighteen pencils.",
+          "exampleRu": "У меня 18 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-nineteen",
+          "en": "nineteen",
+          "ru": "девятнадцать",
+          "example": "I have got nineteen pencils.",
+          "exampleRu": "У меня 19 карандашей.",
+          "emoji": "🔢"
+        },
+        {
+          "id": "w-twenty",
+          "en": "twenty",
+          "ru": "двадцать",
+          "example": "I have got twenty pencils.",
+          "exampleRu": "У меня 20 карандашей.",
+          "emoji": "🔢"
+        }
+      ]
+    },
+    {
+      "module": "1",
+      "id": "1a-school",
+      "code": "1a",
+      "title": "Школьные предметы",
+      "subtitle": "Что у нас по расписанию?",
+      "source": "Учебник: с. 26–27; рабочая тетрадь: с. 17, 19",
+      "words": [
+        {
+          "id": "w-english",
+          "en": "English",
+          "ru": "английский язык",
+          "example": "We learn English at school.",
+          "exampleRu": "Мы учим английский язык в школе.",
+          "emoji": "🇬🇧"
+        },
+        {
+          "id": "w-maths",
+          "en": "maths",
+          "ru": "математика",
+          "example": "I like maths.",
+          "exampleRu": "Мне нравится математика.",
+          "emoji": "🔢",
+          "aliases": [
+            "math"
+          ]
+        },
+        {
+          "id": "w-history",
+          "en": "history",
+          "ru": "история",
+          "example": "We have history on Monday.",
+          "exampleRu": "В понедельник у нас история.",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "w-geography",
+          "en": "geography",
+          "ru": "география",
+          "example": "Geography is my favourite subject.",
+          "exampleRu": "География — мой любимый предмет.",
+          "emoji": "🌍"
+        },
+        {
+          "id": "w-science",
+          "en": "science",
+          "ru": "естествознание",
+          "example": "We have science today.",
+          "exampleRu": "Сегодня у нас естествознание.",
+          "emoji": "🔬"
+        },
+        {
+          "id": "w-art",
+          "en": "art",
+          "ru": "изобразительное искусство",
+          "example": "I like art.",
+          "exampleRu": "Мне нравится изобразительное искусство.",
+          "emoji": "🎨"
+        },
+        {
+          "id": "w-music",
+          "en": "music",
+          "ru": "музыка",
+          "example": "We have music on Friday.",
+          "exampleRu": "В пятницу у нас музыка.",
+          "emoji": "🎵"
+        },
+        {
+          "id": "w-pe",
+          "en": "PE",
+          "ru": "физкультура",
+          "example": "We play games in PE.",
+          "exampleRu": "На физкультуре мы играем в игры.",
+          "emoji": "🏃",
+          "audio": "P E"
+        },
+        {
+          "id": "w-it",
+          "en": "IT",
+          "ru": "информатика",
+          "example": "We use computers in IT.",
+          "exampleRu": "На информатике мы используем компьютеры.",
+          "emoji": "💻",
+          "audio": "I T"
+        }
+      ]
+    },
+    {
+      "module": "1",
+      "id": "1a-days",
+      "code": "1a · +",
+      "title": "Дни недели",
+      "subtitle": "Когда следующий урок?",
+      "source": "Учебник: с. 26; рабочая тетрадь: с. 17",
+      "words": [
+        {
+          "id": "w-monday",
+          "en": "Monday",
+          "ru": "понедельник",
+          "example": "Today is Monday.",
+          "exampleRu": "Сегодня понедельник.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-tuesday",
+          "en": "Tuesday",
+          "ru": "вторник",
+          "example": "Today is Tuesday.",
+          "exampleRu": "Сегодня вторник.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-wednesday",
+          "en": "Wednesday",
+          "ru": "среда",
+          "example": "Today is Wednesday.",
+          "exampleRu": "Сегодня среда.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-thursday",
+          "en": "Thursday",
+          "ru": "четверг",
+          "example": "Today is Thursday.",
+          "exampleRu": "Сегодня четверг.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-friday",
+          "en": "Friday",
+          "ru": "пятница",
+          "example": "Today is Friday.",
+          "exampleRu": "Сегодня пятница.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-saturday",
+          "en": "Saturday",
+          "ru": "суббота",
+          "example": "Today is Saturday.",
+          "exampleRu": "Сегодня суббота.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-sunday",
+          "en": "Sunday",
+          "ru": "воскресенье",
+          "example": "Today is Sunday.",
+          "exampleRu": "Сегодня воскресенье.",
+          "emoji": "📅"
+        }
+      ]
+    },
+    {
+      "module": "1",
+      "id": "1b-first-day",
+      "code": "1b",
+      "title": "Первый день",
+      "subtitle": "Знакомство в школе",
+      "source": "Учебник: с. 28–29; рабочая тетрадь: с. 18",
+      "words": [
+        {
+          "id": "w-student",
+          "en": "student",
+          "ru": "ученик",
+          "example": "Tom is a student.",
+          "exampleRu": "Том — ученик.",
+          "emoji": "🧑‍🎓"
+        },
+        {
+          "id": "w-teacher",
+          "en": "teacher",
+          "ru": "учитель",
+          "example": "Our teacher is kind.",
+          "exampleRu": "Наш учитель добрый.",
+          "emoji": "🧑‍🏫"
+        },
+        {
+          "id": "w-class",
+          "en": "class",
+          "ru": "класс",
+          "example": "I am in this class.",
+          "exampleRu": "Я учусь в этом классе.",
+          "emoji": "🎒"
+        },
+        {
+          "id": "w-school",
+          "en": "school",
+          "ru": "школа",
+          "example": "My school is near my house.",
+          "exampleRu": "Моя школа рядом с моим домом.",
+          "emoji": "🏫"
+        },
+        {
+          "id": "w-friend",
+          "en": "friend",
+          "ru": "друг",
+          "example": "Tom is my friend.",
+          "exampleRu": "Том — мой друг.",
+          "emoji": "🤝"
+        },
+        {
+          "id": "w-years-old",
+          "en": "years old",
+          "ru": "лет (о возрасте)",
+          "example": "I am eleven years old.",
+          "exampleRu": "Мне одиннадцать лет.",
+          "emoji": "🎂"
+        },
+        {
+          "id": "w-together",
+          "en": "together",
+          "ru": "вместе",
+          "example": "We go to school together.",
+          "exampleRu": "Мы ходим в школу вместе.",
+          "emoji": "👭"
+        },
+        {
+          "id": "w-name",
+          "en": "name",
+          "ru": "имя",
+          "example": "What is your name?",
+          "exampleRu": "Как тебя зовут?",
+          "emoji": "🏷️"
+        }
+      ]
+    },
+    {
+      "module": "1",
+      "id": "1c-subjects",
+      "code": "1c",
+      "title": "Про мои уроки",
+      "subtitle": "Расписание и любимые занятия",
+      "source": "Учебник: с. 30; рабочая тетрадь: с. 19, 22",
+      "words": [
+        {
+          "id": "w-subject",
+          "en": "subject",
+          "ru": "учебный предмет",
+          "example": "English is my favourite subject.",
+          "exampleRu": "Английский язык — мой любимый предмет.",
+          "emoji": "📚"
+        },
+        {
+          "id": "w-favourite",
+          "en": "favourite",
+          "ru": "любимый",
+          "example": "Blue is my favourite colour.",
+          "exampleRu": "Синий — мой любимый цвет.",
+          "emoji": "💜"
+        },
+        {
+          "id": "w-timetable",
+          "en": "timetable",
+          "ru": "расписание",
+          "example": "Look at the school timetable.",
+          "exampleRu": "Посмотри на школьное расписание.",
+          "emoji": "📋"
+        },
+        {
+          "id": "w-lesson",
+          "en": "lesson",
+          "ru": "урок",
+          "example": "The lesson starts at nine.",
+          "exampleRu": "Урок начинается в девять.",
+          "emoji": "📖"
+        },
+        {
+          "id": "w-break",
+          "en": "break",
+          "ru": "перемена; перерыв",
+          "example": "We have a break at ten.",
+          "exampleRu": "В десять у нас перемена.",
+          "emoji": "⏳"
+        },
+        {
+          "id": "w-classroom",
+          "en": "classroom",
+          "ru": "классная комната",
+          "example": "Our classroom is big.",
+          "exampleRu": "Наша классная комната большая.",
+          "emoji": "🏫"
+        }
+      ]
+    },
+    {
+      "module": "2",
+      "id": "2a-countries",
+      "code": "2a",
+      "title": "Откуда ты?",
+      "subtitle": "Страны и национальности",
+      "source": "Учебник: с. 36–37; рабочая тетрадь: с. 23",
+      "words": [
+        {
+          "id": "w-russia",
+          "en": "Russia",
+          "ru": "Россия",
+          "example": "I am from Russia.",
+          "exampleRu": "Я из России.",
+          "emoji": "🇷🇺"
+        },
+        {
+          "id": "w-russian",
+          "en": "Russian",
+          "ru": "русский; российский",
+          "example": "This is a Russian doll.",
+          "exampleRu": "Это русская кукла.",
+          "emoji": "🇷🇺"
+        },
+        {
+          "id": "w-britain",
+          "en": "Britain",
+          "ru": "Британия",
+          "example": "Tom is from Britain.",
+          "exampleRu": "Том из Британии.",
+          "emoji": "🇬🇧"
+        },
+        {
+          "id": "w-british",
+          "en": "British",
+          "ru": "британский",
+          "example": "This is a British stamp.",
+          "exampleRu": "Это британская марка.",
+          "emoji": "🇬🇧"
+        },
+        {
+          "id": "w-france",
+          "en": "France",
+          "ru": "Франция",
+          "example": "Anna is from France.",
+          "exampleRu": "Анна из Франции.",
+          "emoji": "🇫🇷"
+        },
+        {
+          "id": "w-french",
+          "en": "French",
+          "ru": "французский",
+          "example": "I have got a French coin.",
+          "exampleRu": "У меня есть французская монета.",
+          "emoji": "🇫🇷"
+        },
+        {
+          "id": "w-japan",
+          "en": "Japan",
+          "ru": "Япония",
+          "example": "Yuki is from Japan.",
+          "exampleRu": "Юки из Японии.",
+          "emoji": "🇯🇵"
+        },
+        {
+          "id": "w-japanese",
+          "en": "Japanese",
+          "ru": "японский",
+          "example": "This is a Japanese toy.",
+          "exampleRu": "Это японская игрушка.",
+          "emoji": "🇯🇵"
+        },
+        {
+          "id": "w-italy",
+          "en": "Italy",
+          "ru": "Италия",
+          "example": "Marco is from Italy.",
+          "exampleRu": "Марко из Италии.",
+          "emoji": "🇮🇹"
+        },
+        {
+          "id": "w-italian",
+          "en": "Italian",
+          "ru": "итальянский",
+          "example": "I like Italian food.",
+          "exampleRu": "Мне нравится итальянская еда.",
+          "emoji": "🇮🇹"
+        },
+        {
+          "id": "w-greece",
+          "en": "Greece",
+          "ru": "Греция",
+          "example": "My friend is from Greece.",
+          "exampleRu": "Мой друг из Греции.",
+          "emoji": "🇬🇷"
+        },
+        {
+          "id": "w-greek",
+          "en": "Greek",
+          "ru": "греческий",
+          "example": "This is a Greek coin.",
+          "exampleRu": "Это греческая монета.",
+          "emoji": "🇬🇷"
+        }
+      ]
+    },
+    {
+      "module": "2",
+      "id": "2b-things",
+      "code": "2b",
+      "title": "Мои вещи",
+      "subtitle": "Подарки и любимые предметы",
+      "source": "Учебник: с. 38–39; рабочая тетрадь: с. 24",
+      "words": [
+        {
+          "id": "w-watch",
+          "en": "watch",
+          "ru": "наручные часы",
+          "example": "This watch is a present.",
+          "exampleRu": "Эти наручные часы — подарок.",
+          "emoji": "⌚"
+        },
+        {
+          "id": "w-cap",
+          "en": "cap",
+          "ru": "кепка",
+          "example": "My cap is red.",
+          "exampleRu": "Моя кепка красная.",
+          "emoji": "🧢"
+        },
+        {
+          "id": "w-skateboard",
+          "en": "skateboard",
+          "ru": "скейтборд",
+          "example": "I have got a skateboard.",
+          "exampleRu": "У меня есть скейтборд.",
+          "emoji": "🛹"
+        },
+        {
+          "id": "w-basketball",
+          "en": "basketball",
+          "ru": "баскетбольный мяч",
+          "example": "This basketball is orange.",
+          "exampleRu": "Этот баскетбольный мяч оранжевый.",
+          "emoji": "🏀"
+        },
+        {
+          "id": "w-bicycle",
+          "en": "bicycle",
+          "ru": "велосипед",
+          "example": "My bicycle is blue.",
+          "exampleRu": "Мой велосипед синий.",
+          "emoji": "🚲"
+        },
+        {
+          "id": "w-guitar",
+          "en": "guitar",
+          "ru": "гитара",
+          "example": "I can play the guitar.",
+          "exampleRu": "Я умею играть на гитаре.",
+          "emoji": "🎸"
+        },
+        {
+          "id": "w-gloves",
+          "en": "gloves",
+          "ru": "перчатки",
+          "example": "My gloves are warm.",
+          "exampleRu": "Мои перчатки тёплые.",
+          "emoji": "🧤"
+        },
+        {
+          "id": "w-trainers",
+          "en": "trainers",
+          "ru": "кроссовки",
+          "example": "My trainers are white.",
+          "exampleRu": "Мои кроссовки белые.",
+          "emoji": "👟",
+          "aliases": [
+            "sneakers"
+          ]
+        },
+        {
+          "id": "w-scarf",
+          "en": "scarf",
+          "ru": "шарф",
+          "example": "I have got a long scarf.",
+          "exampleRu": "У меня есть длинный шарф.",
+          "emoji": "🧣"
+        },
+        {
+          "id": "w-present",
+          "en": "present",
+          "ru": "подарок",
+          "example": "This is a present for you.",
+          "exampleRu": "Это подарок для тебя.",
+          "emoji": "🎁"
+        }
+      ]
+    },
+    {
+      "module": "2",
+      "id": "2c-collection",
+      "code": "2c",
+      "title": "Моя коллекция",
+      "subtitle": "Собираем маленькие сокровища",
+      "source": "Учебник: с. 40–41; рабочая тетрадь: с. 25",
+      "words": [
+        {
+          "id": "w-collection",
+          "en": "collection",
+          "ru": "коллекция",
+          "example": "My collection is small.",
+          "exampleRu": "Моя коллекция небольшая.",
+          "emoji": "🗃️"
+        },
+        {
+          "id": "w-collect",
+          "en": "collect",
+          "ru": "коллекционировать",
+          "example": "I collect stamps.",
+          "exampleRu": "Я коллекционирую марки.",
+          "emoji": "📬"
+        },
+        {
+          "id": "w-stamp",
+          "en": "stamp",
+          "ru": "почтовая марка",
+          "example": "This stamp is from Britain.",
+          "exampleRu": "Эта марка из Британии.",
+          "emoji": "📮"
+        },
+        {
+          "id": "w-coin",
+          "en": "coin",
+          "ru": "монета",
+          "example": "This coin is from Japan.",
+          "exampleRu": "Эта монета из Японии.",
+          "emoji": "🪙"
+        },
+        {
+          "id": "w-doll",
+          "en": "doll",
+          "ru": "кукла",
+          "example": "My doll is beautiful.",
+          "exampleRu": "Моя кукла красивая.",
+          "emoji": "🪆"
+        },
+        {
+          "id": "w-souvenir",
+          "en": "souvenir",
+          "ru": "сувенир",
+          "example": "This is a souvenir from Italy.",
+          "exampleRu": "Это сувенир из Италии.",
+          "emoji": "🎁"
+        },
+        {
+          "id": "w-key-ring",
+          "en": "key ring",
+          "ru": "брелок",
+          "example": "I have got a new key ring.",
+          "exampleRu": "У меня есть новый брелок.",
+          "emoji": "🔑",
+          "aliases": [
+            "keyring"
+          ]
+        },
+        {
+          "id": "w-beautiful",
+          "en": "beautiful",
+          "ru": "красивый",
+          "example": "This doll is beautiful.",
+          "exampleRu": "Эта кукла красивая.",
+          "emoji": "✨"
+        }
+      ]
+    },
+    {
+      "module": "3",
+      "id": "3a-home",
+      "code": "3a",
+      "title": "Мой дом",
+      "subtitle": "Комнаты и этажи",
+      "source": "Рабочая тетрадь: с. 29",
+      "words": [
+        {
+          "id": "w-house",
+          "en": "house",
+          "ru": "дом",
+          "example": "My house is small.",
+          "exampleRu": "Мой дом небольшой.",
+          "emoji": "🏡"
+        },
+        {
+          "id": "w-flat",
+          "en": "flat",
+          "ru": "квартира",
+          "example": "We live in a flat.",
+          "exampleRu": "Мы живём в квартире.",
+          "emoji": "🏢"
+        },
+        {
+          "id": "w-kitchen",
+          "en": "kitchen",
+          "ru": "кухня",
+          "example": "Mum is in the kitchen.",
+          "exampleRu": "Мама на кухне.",
+          "emoji": "🍳"
+        },
+        {
+          "id": "w-living-room",
+          "en": "living room",
+          "ru": "гостиная",
+          "example": "We watch TV in the living room.",
+          "exampleRu": "Мы смотрим телевизор в гостиной.",
+          "emoji": "🛋️"
+        },
+        {
+          "id": "w-bedroom",
+          "en": "bedroom",
+          "ru": "спальня",
+          "example": "This is my bedroom.",
+          "exampleRu": "Это моя спальня.",
+          "emoji": "🛏️"
+        },
+        {
+          "id": "w-bathroom",
+          "en": "bathroom",
+          "ru": "ванная комната",
+          "example": "The bathroom is upstairs.",
+          "exampleRu": "Ванная комната наверху.",
+          "emoji": "🛁"
+        },
+        {
+          "id": "w-dining-room",
+          "en": "dining room",
+          "ru": "столовая комната",
+          "example": "We eat in the dining room.",
+          "exampleRu": "Мы едим в столовой комнате.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-garage",
+          "en": "garage",
+          "ru": "гараж",
+          "example": "The car is in the garage.",
+          "exampleRu": "Машина в гараже.",
+          "emoji": "🚗"
+        },
+        {
+          "id": "w-floor",
+          "en": "floor",
+          "ru": "этаж",
+          "example": "My flat is on the ground floor.",
+          "exampleRu": "Моя квартира на первом этаже.",
+          "emoji": "🏢"
+        },
+        {
+          "id": "w-lift",
+          "en": "lift",
+          "ru": "лифт",
+          "example": "There is a lift in our building.",
+          "exampleRu": "В нашем здании есть лифт.",
+          "emoji": "↕️"
+        }
+      ]
+    },
+    {
+      "module": "3",
+      "id": "3b-furniture",
+      "code": "3b",
+      "title": "Обустраиваем комнату",
+      "subtitle": "Мебель и вещи дома",
+      "source": "Рабочая тетрадь: с. 30",
+      "words": [
+        {
+          "id": "w-bed",
+          "en": "bed",
+          "ru": "кровать",
+          "example": "My bed is next to the window.",
+          "exampleRu": "Моя кровать рядом с окном.",
+          "emoji": "🛏️"
+        },
+        {
+          "id": "w-wardrobe",
+          "en": "wardrobe",
+          "ru": "шкаф для одежды",
+          "example": "The wardrobe is big.",
+          "exampleRu": "Шкаф для одежды большой.",
+          "emoji": "🚪"
+        },
+        {
+          "id": "w-sofa",
+          "en": "sofa",
+          "ru": "диван",
+          "example": "The cat is on the sofa.",
+          "exampleRu": "Кошка на диване.",
+          "emoji": "🛋️"
+        },
+        {
+          "id": "w-armchair",
+          "en": "armchair",
+          "ru": "кресло",
+          "example": "Dad is in the armchair.",
+          "exampleRu": "Папа в кресле.",
+          "emoji": "🪑"
+        },
+        {
+          "id": "w-table",
+          "en": "table",
+          "ru": "стол",
+          "example": "The book is on the table.",
+          "exampleRu": "Книга на столе.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-lamp",
+          "en": "lamp",
+          "ru": "лампа",
+          "example": "There is a lamp on my desk.",
+          "exampleRu": "На моей парте есть лампа.",
+          "emoji": "💡"
+        },
+        {
+          "id": "w-bookcase",
+          "en": "bookcase",
+          "ru": "книжный шкаф",
+          "example": "My books are in the bookcase.",
+          "exampleRu": "Мои книги в книжном шкафу.",
+          "emoji": "📚"
+        },
+        {
+          "id": "w-carpet",
+          "en": "carpet",
+          "ru": "ковёр",
+          "example": "The carpet is blue.",
+          "exampleRu": "Ковёр синий.",
+          "emoji": "🔷"
+        },
+        {
+          "id": "w-fridge",
+          "en": "fridge",
+          "ru": "холодильник",
+          "example": "The milk is in the fridge.",
+          "exampleRu": "Молоко в холодильнике.",
+          "emoji": "🧊"
+        },
+        {
+          "id": "w-cooker",
+          "en": "cooker",
+          "ru": "кухонная плита",
+          "example": "The cooker is in the kitchen.",
+          "exampleRu": "Плита на кухне.",
+          "emoji": "🍳"
+        },
+        {
+          "id": "w-sink",
+          "en": "sink",
+          "ru": "кухонная раковина",
+          "example": "The sink is clean.",
+          "exampleRu": "Кухонная раковина чистая.",
+          "emoji": "🚰"
+        },
+        {
+          "id": "w-television",
+          "en": "television",
+          "ru": "телевизор",
+          "example": "There is a television in the living room.",
+          "exampleRu": "В гостиной есть телевизор.",
+          "emoji": "📺"
+        }
+      ]
+    },
+    {
+      "module": "3",
+      "id": "3c-position",
+      "code": "3c",
+      "title": "Где лежат вещи?",
+      "subtitle": "Предлоги места",
+      "source": "Рабочая тетрадь: с. 31",
+      "words": [
+        {
+          "id": "w-in",
+          "en": "in",
+          "ru": "в; внутри",
+          "example": "The pencil is in the box.",
+          "exampleRu": "Карандаш в коробке.",
+          "emoji": "📦"
+        },
+        {
+          "id": "w-on",
+          "en": "on",
+          "ru": "на",
+          "example": "The book is on the desk.",
+          "exampleRu": "Книга на парте.",
+          "emoji": "📖"
+        },
+        {
+          "id": "w-under",
+          "en": "under",
+          "ru": "под",
+          "example": "The cat is under the bed.",
+          "exampleRu": "Кошка под кроватью.",
+          "emoji": "🐈"
+        },
+        {
+          "id": "w-behind",
+          "en": "behind",
+          "ru": "за; позади",
+          "example": "The ball is behind the door.",
+          "exampleRu": "Мяч за дверью.",
+          "emoji": "🚪"
+        },
+        {
+          "id": "w-next-to",
+          "en": "next to",
+          "ru": "рядом с",
+          "example": "The chair is next to the desk.",
+          "exampleRu": "Стул рядом с партой.",
+          "emoji": "🪑"
+        },
+        {
+          "id": "w-in-front-of",
+          "en": "in front of",
+          "ru": "перед",
+          "example": "The lamp is in front of the window.",
+          "exampleRu": "Лампа перед окном.",
+          "emoji": "💡"
+        }
+      ]
+    },
+    {
+      "module": "4",
+      "id": "4a-family",
+      "code": "4a",
+      "title": "Моя семья",
+      "subtitle": "Близкие и характер",
+      "source": "Рабочая тетрадь: с. 35",
+      "words": [
+        {
+          "id": "w-family",
+          "en": "family",
+          "ru": "семья",
+          "example": "My family is friendly.",
+          "exampleRu": "Моя семья дружная.",
+          "emoji": "💛"
+        },
+        {
+          "id": "w-mother",
+          "en": "mother",
+          "ru": "мама; мать",
+          "example": "My mother is kind.",
+          "exampleRu": "Моя мама добрая.",
+          "emoji": "👩"
+        },
+        {
+          "id": "w-father",
+          "en": "father",
+          "ru": "папа; отец",
+          "example": "My father is funny.",
+          "exampleRu": "Мой папа весёлый.",
+          "emoji": "👨"
+        },
+        {
+          "id": "w-brother",
+          "en": "brother",
+          "ru": "брат",
+          "example": "My brother is little.",
+          "exampleRu": "Мой брат маленький.",
+          "emoji": "👦"
+        },
+        {
+          "id": "w-sister",
+          "en": "sister",
+          "ru": "сестра",
+          "example": "My sister is clever.",
+          "exampleRu": "Моя сестра умная.",
+          "emoji": "👧"
+        },
+        {
+          "id": "w-grandmother",
+          "en": "grandmother",
+          "ru": "бабушка",
+          "example": "My grandmother can play the piano.",
+          "exampleRu": "Моя бабушка умеет играть на пианино.",
+          "emoji": "👵"
+        },
+        {
+          "id": "w-grandfather",
+          "en": "grandfather",
+          "ru": "дедушка",
+          "example": "My grandfather is kind.",
+          "exampleRu": "Мой дедушка добрый.",
+          "emoji": "👴"
+        },
+        {
+          "id": "w-kind",
+          "en": "kind",
+          "ru": "добрый",
+          "example": "My friend is kind.",
+          "exampleRu": "Мой друг добрый.",
+          "emoji": "💛"
+        },
+        {
+          "id": "w-friendly",
+          "en": "friendly",
+          "ru": "дружелюбный",
+          "example": "Our dog is friendly.",
+          "exampleRu": "Наша собака дружелюбная.",
+          "emoji": "🤝"
+        },
+        {
+          "id": "w-clever",
+          "en": "clever",
+          "ru": "умный",
+          "example": "My sister is clever.",
+          "exampleRu": "Моя сестра умная.",
+          "emoji": "💡"
+        },
+        {
+          "id": "w-funny",
+          "en": "funny",
+          "ru": "смешной; весёлый",
+          "example": "This film is funny.",
+          "exampleRu": "Этот фильм смешной.",
+          "emoji": "😄"
+        }
+      ]
+    },
+    {
+      "module": "4",
+      "id": "4b-appearance",
+      "code": "4b",
+      "title": "Кто есть кто?",
+      "subtitle": "Описываем внешность",
+      "source": "Рабочая тетрадь: с. 36",
+      "words": [
+        {
+          "id": "w-tall",
+          "en": "tall",
+          "ru": "высокий",
+          "example": "My brother is tall.",
+          "exampleRu": "Мой брат высокий.",
+          "emoji": "📏"
+        },
+        {
+          "id": "w-short",
+          "en": "short",
+          "ru": "короткий; невысокий",
+          "example": "My hair is short.",
+          "exampleRu": "У меня короткие волосы.",
+          "emoji": "✂️"
+        },
+        {
+          "id": "w-young",
+          "en": "young",
+          "ru": "молодой",
+          "example": "Our teacher is young.",
+          "exampleRu": "Наш учитель молодой.",
+          "emoji": "🌱"
+        },
+        {
+          "id": "w-hair",
+          "en": "hair",
+          "ru": "волосы",
+          "example": "Her hair is long.",
+          "exampleRu": "У неё длинные волосы.",
+          "emoji": "💇"
+        },
+        {
+          "id": "w-eyes",
+          "en": "eyes",
+          "ru": "глаза",
+          "example": "Her eyes are blue.",
+          "exampleRu": "У неё голубые глаза.",
+          "emoji": "👀"
+        },
+        {
+          "id": "w-ears",
+          "en": "ears",
+          "ru": "уши",
+          "example": "The rabbit has got long ears.",
+          "exampleRu": "У кролика длинные уши.",
+          "emoji": "🐰"
+        },
+        {
+          "id": "w-curly",
+          "en": "curly",
+          "ru": "кудрявый",
+          "example": "Her hair is curly.",
+          "exampleRu": "У неё кудрявые волосы.",
+          "emoji": "🌀"
+        },
+        {
+          "id": "w-straight",
+          "en": "straight",
+          "ru": "прямой",
+          "example": "His hair is straight.",
+          "exampleRu": "У него прямые волосы.",
+          "emoji": "💇"
+        },
+        {
+          "id": "w-blonde",
+          "en": "blonde",
+          "ru": "светлый (о волосах)",
+          "example": "Her hair is blonde.",
+          "exampleRu": "У неё светлые волосы.",
+          "emoji": "👱"
+        },
+        {
+          "id": "w-moustache",
+          "en": "moustache",
+          "ru": "усы",
+          "example": "My grandfather has got a moustache.",
+          "exampleRu": "У моего дедушки есть усы.",
+          "emoji": "👴"
+        }
+      ]
+    },
+    {
+      "module": "4",
+      "id": "4c-hobbies",
+      "code": "4c",
+      "title": "Расскажи о человеке",
+      "subtitle": "Возраст, увлечения и умения",
+      "source": "Рабочая тетрадь: с. 37",
+      "words": [
+        {
+          "id": "w-birthday",
+          "en": "birthday",
+          "ru": "день рождения",
+          "example": "My birthday is in June.",
+          "exampleRu": "Мой день рождения в июне.",
+          "emoji": "🎂"
+        },
+        {
+          "id": "w-hobby",
+          "en": "hobby",
+          "ru": "увлечение",
+          "example": "My hobby is reading.",
+          "exampleRu": "Моё увлечение — чтение.",
+          "emoji": "📚"
+        },
+        {
+          "id": "w-play-football",
+          "en": "play football",
+          "ru": "играть в футбол",
+          "example": "I can play football.",
+          "exampleRu": "Я умею играть в футбол.",
+          "emoji": "⚽"
+        },
+        {
+          "id": "w-swim",
+          "en": "swim",
+          "ru": "плавать",
+          "example": "I can swim.",
+          "exampleRu": "Я умею плавать.",
+          "emoji": "🏊"
+        },
+        {
+          "id": "w-ski",
+          "en": "ski",
+          "ru": "кататься на лыжах",
+          "example": "My brother can ski.",
+          "exampleRu": "Мой брат умеет кататься на лыжах.",
+          "emoji": "⛷️"
+        },
+        {
+          "id": "w-ride-a-bike",
+          "en": "ride a bike",
+          "ru": "кататься на велосипеде",
+          "example": "I can ride a bike.",
+          "exampleRu": "Я умею кататься на велосипеде.",
+          "emoji": "🚲"
+        },
+        {
+          "id": "w-speak",
+          "en": "speak",
+          "ru": "говорить",
+          "example": "I can speak English.",
+          "exampleRu": "Я умею говорить по-английски.",
+          "emoji": "💬"
+        },
+        {
+          "id": "w-athlete",
+          "en": "athlete",
+          "ru": "спортсмен",
+          "example": "My sister is an athlete.",
+          "exampleRu": "Моя сестра — спортсменка.",
+          "emoji": "🏅"
+        }
+      ]
+    },
+    {
+      "module": "5",
+      "id": "5a-animals",
+      "code": "5a",
+      "title": "Удивительные животные",
+      "subtitle": "Кто живёт на нашей планете?",
+      "source": "Рабочая тетрадь: с. 41",
+      "words": [
+        {
+          "id": "w-lion",
+          "en": "lion",
+          "ru": "лев",
+          "example": "The lion has got a mane.",
+          "exampleRu": "У льва есть грива.",
+          "emoji": "🦁"
+        },
+        {
+          "id": "w-tiger",
+          "en": "tiger",
+          "ru": "тигр",
+          "example": "The tiger has got stripes.",
+          "exampleRu": "У тигра есть полосы.",
+          "emoji": "🐯"
+        },
+        {
+          "id": "w-elephant",
+          "en": "elephant",
+          "ru": "слон",
+          "example": "The elephant has got a trunk.",
+          "exampleRu": "У слона есть хобот.",
+          "emoji": "🐘"
+        },
+        {
+          "id": "w-giraffe",
+          "en": "giraffe",
+          "ru": "жираф",
+          "example": "The giraffe has got a long neck.",
+          "exampleRu": "У жирафа длинная шея.",
+          "emoji": "🦒"
+        },
+        {
+          "id": "w-cheetah",
+          "en": "cheetah",
+          "ru": "гепард",
+          "example": "A cheetah can run fast.",
+          "exampleRu": "Гепард умеет быстро бегать.",
+          "emoji": "🐆"
+        },
+        {
+          "id": "w-frog",
+          "en": "frog",
+          "ru": "лягушка",
+          "example": "The frog is green.",
+          "exampleRu": "Лягушка зелёная.",
+          "emoji": "🐸"
+        },
+        {
+          "id": "w-hippo",
+          "en": "hippo",
+          "ru": "бегемот",
+          "example": "The hippo is in the water.",
+          "exampleRu": "Бегемот в воде.",
+          "emoji": "🦛"
+        },
+        {
+          "id": "w-whale",
+          "en": "whale",
+          "ru": "кит",
+          "example": "The whale is big.",
+          "exampleRu": "Кит большой.",
+          "emoji": "🐋"
+        },
+        {
+          "id": "w-dolphin",
+          "en": "dolphin",
+          "ru": "дельфин",
+          "example": "The dolphin can swim.",
+          "exampleRu": "Дельфин умеет плавать.",
+          "emoji": "🐬"
+        },
+        {
+          "id": "w-crocodile",
+          "en": "crocodile",
+          "ru": "крокодил",
+          "example": "The crocodile has got a long tail.",
+          "exampleRu": "У крокодила длинный хвост.",
+          "emoji": "🐊"
+        },
+        {
+          "id": "w-deer",
+          "en": "deer",
+          "ru": "олень",
+          "example": "The deer eats grass.",
+          "exampleRu": "Олень ест траву.",
+          "emoji": "🦌"
+        },
+        {
+          "id": "w-butterfly",
+          "en": "butterfly",
+          "ru": "бабочка",
+          "example": "This butterfly is beautiful.",
+          "exampleRu": "Эта бабочка красивая.",
+          "emoji": "🦋"
+        }
+      ]
+    },
+    {
+      "module": "5",
+      "id": "5b-body",
+      "code": "5b",
+      "title": "В зоопарке",
+      "subtitle": "Лапы, перья и хвосты",
+      "source": "Рабочая тетрадь: с. 42",
+      "words": [
+        {
+          "id": "w-tail",
+          "en": "tail",
+          "ru": "хвост",
+          "example": "The cat has got a long tail.",
+          "exampleRu": "У кошки длинный хвост.",
+          "emoji": "🐈"
+        },
+        {
+          "id": "w-paws",
+          "en": "paws",
+          "ru": "лапы",
+          "example": "The dog has got four paws.",
+          "exampleRu": "У собаки четыре лапы.",
+          "emoji": "🐾"
+        },
+        {
+          "id": "w-fur",
+          "en": "fur",
+          "ru": "мех; шерсть",
+          "example": "The rabbit has got soft fur.",
+          "exampleRu": "У кролика мягкая шерсть.",
+          "emoji": "🐰"
+        },
+        {
+          "id": "w-feathers",
+          "en": "feathers",
+          "ru": "перья",
+          "example": "This bird has got green feathers.",
+          "exampleRu": "У этой птицы зелёные перья.",
+          "emoji": "🪶"
+        },
+        {
+          "id": "w-wings",
+          "en": "wings",
+          "ru": "крылья",
+          "example": "The bird has got two wings.",
+          "exampleRu": "У птицы два крыла.",
+          "emoji": "🪽"
+        },
+        {
+          "id": "w-trunk",
+          "en": "trunk",
+          "ru": "хобот",
+          "example": "The elephant has got a long trunk.",
+          "exampleRu": "У слона длинный хобот.",
+          "emoji": "🐘"
+        },
+        {
+          "id": "w-tusks",
+          "en": "tusks",
+          "ru": "бивни",
+          "example": "The elephant has got two tusks.",
+          "exampleRu": "У слона два бивня.",
+          "emoji": "🐘"
+        },
+        {
+          "id": "w-mane",
+          "en": "mane",
+          "ru": "грива",
+          "example": "The lion has got a mane.",
+          "exampleRu": "У льва есть грива.",
+          "emoji": "🦁"
+        },
+        {
+          "id": "w-neck",
+          "en": "neck",
+          "ru": "шея",
+          "example": "The giraffe has got a long neck.",
+          "exampleRu": "У жирафа длинная шея.",
+          "emoji": "🦒"
+        },
+        {
+          "id": "w-legs",
+          "en": "legs",
+          "ru": "ноги",
+          "example": "The dog has got four legs.",
+          "exampleRu": "У собаки четыре ноги.",
+          "emoji": "🐾"
+        }
+      ]
+    },
+    {
+      "module": "5",
+      "id": "5c-pets",
+      "code": "5c",
+      "title": "Мой питомец",
+      "subtitle": "Как рассказать о любимце",
+      "source": "Рабочая тетрадь: с. 43",
+      "words": [
+        {
+          "id": "w-pet",
+          "en": "pet",
+          "ru": "домашний питомец",
+          "example": "My pet is a rabbit.",
+          "exampleRu": "Мой питомец — кролик.",
+          "emoji": "🐾"
+        },
+        {
+          "id": "w-dog",
+          "en": "dog",
+          "ru": "собака",
+          "example": "My dog is friendly.",
+          "exampleRu": "Моя собака дружелюбная.",
+          "emoji": "🐶"
+        },
+        {
+          "id": "w-cat",
+          "en": "cat",
+          "ru": "кошка",
+          "example": "My cat is white.",
+          "exampleRu": "Моя кошка белая.",
+          "emoji": "🐱"
+        },
+        {
+          "id": "w-rabbit",
+          "en": "rabbit",
+          "ru": "кролик",
+          "example": "My rabbit has got long ears.",
+          "exampleRu": "У моего кролика длинные уши.",
+          "emoji": "🐰"
+        },
+        {
+          "id": "w-parrot",
+          "en": "parrot",
+          "ru": "попугай",
+          "example": "My parrot has got green feathers.",
+          "exampleRu": "У моего попугая зелёные перья.",
+          "emoji": "🦜"
+        },
+        {
+          "id": "w-cow",
+          "en": "cow",
+          "ru": "корова",
+          "example": "The cow lives on a farm.",
+          "exampleRu": "Корова живёт на ферме.",
+          "emoji": "🐄"
+        },
+        {
+          "id": "w-sheep",
+          "en": "sheep",
+          "ru": "овца",
+          "example": "The sheep has got thick wool.",
+          "exampleRu": "У овцы густая шерсть.",
+          "emoji": "🐑"
+        },
+        {
+          "id": "w-owner",
+          "en": "owner",
+          "ru": "владелец",
+          "example": "The dog helps its owner.",
+          "exampleRu": "Собака помогает своему владельцу.",
+          "emoji": "🤝"
+        }
+      ]
+    },
+    {
+      "module": "6",
+      "id": "6a-day",
+      "code": "6a",
+      "title": "Мой обычный день",
+      "subtitle": "Дела от утра до вечера",
+      "source": "Рабочая тетрадь: с. 47",
+      "words": [
+        {
+          "id": "w-get-up",
+          "en": "get up",
+          "ru": "вставать",
+          "example": "I get up at seven.",
+          "exampleRu": "Я встаю в семь.",
+          "emoji": "⏰"
+        },
+        {
+          "id": "w-have-breakfast",
+          "en": "have breakfast",
+          "ru": "завтракать",
+          "example": "I have breakfast at eight.",
+          "exampleRu": "Я завтракаю в восемь.",
+          "emoji": "🥣"
+        },
+        {
+          "id": "w-go-to-school",
+          "en": "go to school",
+          "ru": "идти в школу",
+          "example": "I go to school at nine.",
+          "exampleRu": "Я иду в школу в девять.",
+          "emoji": "🎒"
+        },
+        {
+          "id": "w-have-lunch",
+          "en": "have lunch",
+          "ru": "обедать",
+          "example": "I have lunch at school.",
+          "exampleRu": "Я обедаю в школе.",
+          "emoji": "🥪"
+        },
+        {
+          "id": "w-do-homework",
+          "en": "do homework",
+          "ru": "делать домашнее задание",
+          "example": "We do homework after school.",
+          "exampleRu": "Мы делаем домашнее задание после школы.",
+          "emoji": "📚"
+        },
+        {
+          "id": "w-have-dinner",
+          "en": "have dinner",
+          "ru": "ужинать",
+          "example": "We have dinner at six.",
+          "exampleRu": "Мы ужинаем в шесть.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-go-to-bed",
+          "en": "go to bed",
+          "ru": "ложиться спать",
+          "example": "I go to bed at ten.",
+          "exampleRu": "Я ложусь спать в десять.",
+          "emoji": "🛏️"
+        },
+        {
+          "id": "w-always",
+          "en": "always",
+          "ru": "всегда",
+          "example": "I always have breakfast.",
+          "exampleRu": "Я всегда завтракаю.",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-usually",
+          "en": "usually",
+          "ru": "обычно",
+          "example": "I usually get up at seven.",
+          "exampleRu": "Я обычно встаю в семь.",
+          "emoji": "⏰"
+        },
+        {
+          "id": "w-often",
+          "en": "often",
+          "ru": "часто",
+          "example": "I often read books.",
+          "exampleRu": "Я часто читаю книги.",
+          "emoji": "📖"
+        },
+        {
+          "id": "w-sometimes",
+          "en": "sometimes",
+          "ru": "иногда",
+          "example": "I sometimes watch TV.",
+          "exampleRu": "Я иногда смотрю телевизор.",
+          "emoji": "📺"
+        },
+        {
+          "id": "w-never",
+          "en": "never",
+          "ru": "никогда",
+          "example": "I never go to bed late.",
+          "exampleRu": "Я никогда не ложусь спать поздно.",
+          "emoji": "🌙"
+        }
+      ]
+    },
+    {
+      "module": "6",
+      "id": "6b-work",
+      "code": "6b",
+      "title": "Кто что делает?",
+      "subtitle": "Профессии и действия",
+      "source": "Рабочая тетрадь: с. 48",
+      "words": [
+        {
+          "id": "w-baker",
+          "en": "baker",
+          "ru": "пекарь",
+          "example": "The baker makes bread.",
+          "exampleRu": "Пекарь печёт хлеб.",
+          "emoji": "🥖"
+        },
+        {
+          "id": "w-driver",
+          "en": "driver",
+          "ru": "водитель",
+          "example": "The driver is in the car.",
+          "exampleRu": "Водитель в машине.",
+          "emoji": "🚗"
+        },
+        {
+          "id": "w-waiter",
+          "en": "waiter",
+          "ru": "официант",
+          "example": "The waiter brings our food.",
+          "exampleRu": "Официант приносит нашу еду.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-doctor",
+          "en": "doctor",
+          "ru": "врач",
+          "example": "The doctor helps people.",
+          "exampleRu": "Врач помогает людям.",
+          "emoji": "🩺"
+        },
+        {
+          "id": "w-work",
+          "en": "work",
+          "ru": "работать",
+          "example": "My parents work in town.",
+          "exampleRu": "Мои родители работают в городе.",
+          "emoji": "💼"
+        },
+        {
+          "id": "w-paint",
+          "en": "paint",
+          "ru": "красить; рисовать красками",
+          "example": "I can paint a picture.",
+          "exampleRu": "Я могу нарисовать картину красками.",
+          "emoji": "🎨"
+        },
+        {
+          "id": "w-repair",
+          "en": "repair",
+          "ru": "чинить",
+          "example": "They repair cars.",
+          "exampleRu": "Они чинят машины.",
+          "emoji": "🔧"
+        },
+        {
+          "id": "w-serve",
+          "en": "serve",
+          "ru": "обслуживать; подавать",
+          "example": "They serve food here.",
+          "exampleRu": "Здесь подают еду.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-deliver",
+          "en": "deliver",
+          "ru": "доставлять",
+          "example": "They deliver food to our house.",
+          "exampleRu": "Они доставляют еду к нам домой.",
+          "emoji": "📦"
+        },
+        {
+          "id": "w-wait",
+          "en": "wait",
+          "ru": "ждать",
+          "example": "We wait for the bus.",
+          "exampleRu": "Мы ждём автобус.",
+          "emoji": "🚌"
+        }
+      ]
+    },
+    {
+      "module": "6",
+      "id": "6c-weekend",
+      "code": "6c",
+      "title": "Выходные",
+      "subtitle": "Успеть отдохнуть и поиграть",
+      "source": "Рабочая тетрадь: с. 49",
+      "words": [
+        {
+          "id": "w-weekend",
+          "en": "weekend",
+          "ru": "выходные",
+          "example": "We have fun at the weekend.",
+          "exampleRu": "На выходных мы веселимся.",
+          "emoji": "🌈"
+        },
+        {
+          "id": "w-write-an-email",
+          "en": "write an email",
+          "ru": "писать электронное письмо",
+          "example": "I can write an email.",
+          "exampleRu": "Я могу написать электронное письмо.",
+          "emoji": "✉️"
+        },
+        {
+          "id": "w-make-phone-calls",
+          "en": "make phone calls",
+          "ru": "звонить по телефону",
+          "example": "I make phone calls after school.",
+          "exampleRu": "Я звоню по телефону после школы.",
+          "emoji": "📱"
+        },
+        {
+          "id": "w-read-a-book",
+          "en": "read a book",
+          "ru": "читать книгу",
+          "example": "I read a book in the evening.",
+          "exampleRu": "Вечером я читаю книгу.",
+          "emoji": "📖"
+        },
+        {
+          "id": "w-plant-flowers",
+          "en": "plant flowers",
+          "ru": "сажать цветы",
+          "example": "We plant flowers in spring.",
+          "exampleRu": "Весной мы сажаем цветы.",
+          "emoji": "🌷"
+        },
+        {
+          "id": "w-work-in-the-garden",
+          "en": "work in the garden",
+          "ru": "работать в саду",
+          "example": "We work in the garden on Sunday.",
+          "exampleRu": "В воскресенье мы работаем в саду.",
+          "emoji": "🌿"
+        },
+        {
+          "id": "w-play-with-a-friend",
+          "en": "play with a friend",
+          "ru": "играть с другом",
+          "example": "I play with a friend after school.",
+          "exampleRu": "После школы я играю с другом.",
+          "emoji": "🤝"
+        },
+        {
+          "id": "w-watch-tv",
+          "en": "watch TV",
+          "ru": "смотреть телевизор",
+          "example": "We watch TV in the evening.",
+          "exampleRu": "Мы смотрим телевизор вечером.",
+          "emoji": "📺"
+        }
+      ]
+    },
+    {
+      "module": "7",
+      "id": "7a-weather",
+      "code": "7a",
+      "title": "Какая погода?",
+      "subtitle": "Времена года и погода",
+      "source": "Рабочая тетрадь: с. 53",
+      "words": [
+        {
+          "id": "w-spring",
+          "en": "spring",
+          "ru": "весна",
+          "example": "I like spring.",
+          "exampleRu": "Мне нравится весна.",
+          "emoji": "🌷"
+        },
+        {
+          "id": "w-summer",
+          "en": "summer",
+          "ru": "лето",
+          "example": "I like summer.",
+          "exampleRu": "Мне нравится лето.",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-autumn",
+          "en": "autumn",
+          "ru": "осень",
+          "example": "I like autumn.",
+          "exampleRu": "Мне нравится осень.",
+          "emoji": "🍂",
+          "aliases": [
+            "fall"
+          ]
+        },
+        {
+          "id": "w-winter",
+          "en": "winter",
+          "ru": "зима",
+          "example": "I like winter.",
+          "exampleRu": "Мне нравится зима.",
+          "emoji": "❄️"
+        },
+        {
+          "id": "w-weather",
+          "en": "weather",
+          "ru": "погода",
+          "example": "The weather is nice today.",
+          "exampleRu": "Сегодня хорошая погода.",
+          "emoji": "🌦️"
+        },
+        {
+          "id": "w-hot",
+          "en": "hot",
+          "ru": "жаркий; жарко",
+          "example": "It is hot today.",
+          "exampleRu": "Сегодня жарко.",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-warm",
+          "en": "warm",
+          "ru": "тёплый; тепло",
+          "example": "It is warm in spring.",
+          "exampleRu": "Весной тепло.",
+          "emoji": "🌤️"
+        },
+        {
+          "id": "w-cold",
+          "en": "cold",
+          "ru": "холодный; холодно",
+          "example": "It is cold today.",
+          "exampleRu": "Сегодня холодно.",
+          "emoji": "❄️"
+        },
+        {
+          "id": "w-sunny",
+          "en": "sunny",
+          "ru": "солнечный; солнечно",
+          "example": "It is sunny today.",
+          "exampleRu": "Сегодня солнечно.",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-rain",
+          "en": "rain",
+          "ru": "дождь",
+          "example": "I can hear the rain.",
+          "exampleRu": "Я слышу дождь.",
+          "emoji": "🌧️"
+        },
+        {
+          "id": "w-snow",
+          "en": "snow",
+          "ru": "снег",
+          "example": "We play in the snow.",
+          "exampleRu": "Мы играем в снегу.",
+          "emoji": "⛄"
+        },
+        {
+          "id": "w-freezing",
+          "en": "freezing",
+          "ru": "морозный; очень холодно",
+          "example": "It is freezing today.",
+          "exampleRu": "Сегодня очень холодно.",
+          "emoji": "🥶"
+        }
+      ]
+    },
+    {
+      "module": "7",
+      "id": "7a-months",
+      "code": "7a · +",
+      "title": "Двенадцать месяцев",
+      "subtitle": "Когда у тебя день рождения?",
+      "source": "Рабочая тетрадь: с. 53",
+      "words": [
+        {
+          "id": "w-january",
+          "en": "January",
+          "ru": "январь",
+          "example": "My birthday is in January.",
+          "exampleRu": "Мой день рождения в январе.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-february",
+          "en": "February",
+          "ru": "февраль",
+          "example": "My birthday is in February.",
+          "exampleRu": "Мой день рождения в феврале.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-march",
+          "en": "March",
+          "ru": "март",
+          "example": "My birthday is in March.",
+          "exampleRu": "Мой день рождения в марте.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-april",
+          "en": "April",
+          "ru": "апрель",
+          "example": "My birthday is in April.",
+          "exampleRu": "Мой день рождения в апреле.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-may",
+          "en": "May",
+          "ru": "май",
+          "example": "My birthday is in May.",
+          "exampleRu": "Мой день рождения в мае.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-june",
+          "en": "June",
+          "ru": "июнь",
+          "example": "My birthday is in June.",
+          "exampleRu": "Мой день рождения в июне.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-july",
+          "en": "July",
+          "ru": "июль",
+          "example": "My birthday is in July.",
+          "exampleRu": "Мой день рождения в июле.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-august",
+          "en": "August",
+          "ru": "август",
+          "example": "My birthday is in August.",
+          "exampleRu": "Мой день рождения в августе.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-september",
+          "en": "September",
+          "ru": "сентябрь",
+          "example": "My birthday is in September.",
+          "exampleRu": "Мой день рождения в сентябре.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-october",
+          "en": "October",
+          "ru": "октябрь",
+          "example": "My birthday is in October.",
+          "exampleRu": "Мой день рождения в октябре.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-november",
+          "en": "November",
+          "ru": "ноябрь",
+          "example": "My birthday is in November.",
+          "exampleRu": "Мой день рождения в ноябре.",
+          "emoji": "📅"
+        },
+        {
+          "id": "w-december",
+          "en": "December",
+          "ru": "декабрь",
+          "example": "My birthday is in December.",
+          "exampleRu": "Мой день рождения в декабре.",
+          "emoji": "📅"
+        }
+      ]
+    },
+    {
+      "module": "7",
+      "id": "7b-clothes",
+      "code": "7b",
+      "title": "Что надеть?",
+      "subtitle": "Одежда для разной погоды",
+      "source": "Рабочая тетрадь: с. 54–55",
+      "words": [
+        {
+          "id": "w-trousers",
+          "en": "trousers",
+          "ru": "брюки",
+          "example": "My trousers are black.",
+          "exampleRu": "Мои брюки чёрные.",
+          "emoji": "👖"
+        },
+        {
+          "id": "w-shirt",
+          "en": "shirt",
+          "ru": "рубашка",
+          "example": "My shirt is white.",
+          "exampleRu": "Моя рубашка белая.",
+          "emoji": "👔"
+        },
+        {
+          "id": "w-t-shirt",
+          "en": "T-shirt",
+          "ru": "футболка",
+          "example": "My T-shirt is blue.",
+          "exampleRu": "Моя футболка синяя.",
+          "emoji": "👕"
+        },
+        {
+          "id": "w-skirt",
+          "en": "skirt",
+          "ru": "юбка",
+          "example": "Her skirt is red.",
+          "exampleRu": "Её юбка красная.",
+          "emoji": "👗"
+        },
+        {
+          "id": "w-dress",
+          "en": "dress",
+          "ru": "платье",
+          "example": "Her dress is beautiful.",
+          "exampleRu": "Её платье красивое.",
+          "emoji": "👗"
+        },
+        {
+          "id": "w-jacket",
+          "en": "jacket",
+          "ru": "куртка",
+          "example": "My jacket is warm.",
+          "exampleRu": "Моя куртка тёплая.",
+          "emoji": "🧥"
+        },
+        {
+          "id": "w-raincoat",
+          "en": "raincoat",
+          "ru": "плащ-дождевик",
+          "example": "I wear a raincoat in the rain.",
+          "exampleRu": "В дождь я ношу плащ-дождевик.",
+          "emoji": "🌧️"
+        },
+        {
+          "id": "w-jumper",
+          "en": "jumper",
+          "ru": "джемпер",
+          "example": "This jumper is warm.",
+          "exampleRu": "Этот джемпер тёплый.",
+          "emoji": "🧶",
+          "aliases": [
+            "sweater"
+          ]
+        },
+        {
+          "id": "w-shoes",
+          "en": "shoes",
+          "ru": "туфли; обувь",
+          "example": "My shoes are brown.",
+          "exampleRu": "Мои туфли коричневые.",
+          "emoji": "👞"
+        },
+        {
+          "id": "w-boots",
+          "en": "boots",
+          "ru": "ботинки; сапоги",
+          "example": "My boots are black.",
+          "exampleRu": "Мои ботинки чёрные.",
+          "emoji": "🥾"
+        },
+        {
+          "id": "w-wear",
+          "en": "wear",
+          "ru": "носить (одежду)",
+          "example": "I wear a jacket in winter.",
+          "exampleRu": "Зимой я ношу куртку.",
+          "emoji": "🧥"
+        },
+        {
+          "id": "w-clothes",
+          "en": "clothes",
+          "ru": "одежда",
+          "example": "My clothes are in the wardrobe.",
+          "exampleRu": "Моя одежда в шкафу.",
+          "emoji": "👕"
+        }
+      ]
+    },
+    {
+      "module": "7",
+      "id": "7c-fun",
+      "code": "7c",
+      "title": "Развлечения на улице",
+      "subtitle": "Планы на любую погоду",
+      "source": "Рабочая тетрадь: с. 55",
+      "words": [
+        {
+          "id": "w-go-skiing",
+          "en": "go skiing",
+          "ru": "кататься на лыжах",
+          "example": "We go skiing in winter.",
+          "exampleRu": "Зимой мы катаемся на лыжах.",
+          "emoji": "⛷️"
+        },
+        {
+          "id": "w-go-camping",
+          "en": "go camping",
+          "ru": "ходить в поход с палаткой",
+          "example": "We go camping in summer.",
+          "exampleRu": "Летом мы ходим в поход с палаткой.",
+          "emoji": "⛺"
+        },
+        {
+          "id": "w-have-a-picnic",
+          "en": "have a picnic",
+          "ru": "устраивать пикник",
+          "example": "We have a picnic in the park.",
+          "exampleRu": "Мы устраиваем пикник в парке.",
+          "emoji": "🧺"
+        },
+        {
+          "id": "w-make-a-snowman",
+          "en": "make a snowman",
+          "ru": "лепить снеговика",
+          "example": "We can make a snowman.",
+          "exampleRu": "Мы можем слепить снеговика.",
+          "emoji": "⛄"
+        },
+        {
+          "id": "w-play-in-the-snow",
+          "en": "play in the snow",
+          "ru": "играть в снегу",
+          "example": "I like to play in the snow.",
+          "exampleRu": "Я люблю играть в снегу.",
+          "emoji": "❄️"
+        },
+        {
+          "id": "w-go-swimming",
+          "en": "go swimming",
+          "ru": "ходить плавать",
+          "example": "We go swimming on Sunday.",
+          "exampleRu": "В воскресенье мы ходим плавать.",
+          "emoji": "🏊"
+        }
+      ]
+    },
+    {
+      "module": "8",
+      "id": "8a-celebrations",
+      "code": "8a",
+      "title": "Празднуем!",
+      "subtitle": "Традиции, украшения и подарки",
+      "source": "Рабочая тетрадь: с. 59",
+      "words": [
+        {
+          "id": "w-celebrate",
+          "en": "celebrate",
+          "ru": "праздновать",
+          "example": "We celebrate my birthday today.",
+          "exampleRu": "Сегодня мы празднуем мой день рождения.",
+          "emoji": "🎉"
+        },
+        {
+          "id": "w-festival",
+          "en": "festival",
+          "ru": "фестиваль; праздник",
+          "example": "The festival lasts three days.",
+          "exampleRu": "Фестиваль длится три дня.",
+          "emoji": "🎊"
+        },
+        {
+          "id": "w-parade",
+          "en": "parade",
+          "ru": "парад; шествие",
+          "example": "We watch the parade.",
+          "exampleRu": "Мы смотрим парад.",
+          "emoji": "🥁"
+        },
+        {
+          "id": "w-fireworks",
+          "en": "fireworks",
+          "ru": "фейерверк",
+          "example": "We watch the fireworks.",
+          "exampleRu": "Мы смотрим фейерверк.",
+          "emoji": "🎆"
+        },
+        {
+          "id": "w-decorate",
+          "en": "decorate",
+          "ru": "украшать",
+          "example": "We decorate the house.",
+          "exampleRu": "Мы украшаем дом.",
+          "emoji": "🎈"
+        },
+        {
+          "id": "w-exchange-gifts",
+          "en": "exchange gifts",
+          "ru": "обмениваться подарками",
+          "example": "We exchange gifts in December.",
+          "exampleRu": "В декабре мы обмениваемся подарками.",
+          "emoji": "🎁"
+        },
+        {
+          "id": "w-special",
+          "en": "special",
+          "ru": "особенный",
+          "example": "Today is a special day.",
+          "exampleRu": "Сегодня особенный день.",
+          "emoji": "✨"
+        },
+        {
+          "id": "w-food",
+          "en": "food",
+          "ru": "еда",
+          "example": "I like this food.",
+          "exampleRu": "Мне нравится эта еда.",
+          "emoji": "🍽️"
+        },
+        {
+          "id": "w-pumpkin",
+          "en": "pumpkin",
+          "ru": "тыква",
+          "example": "This pumpkin is orange.",
+          "exampleRu": "Эта тыква оранжевая.",
+          "emoji": "🎃"
+        },
+        {
+          "id": "w-pie",
+          "en": "pie",
+          "ru": "пирог",
+          "example": "Mum makes a pumpkin pie.",
+          "exampleRu": "Мама готовит тыквенный пирог.",
+          "emoji": "🥧"
+        }
+      ]
+    },
+    {
+      "module": "8",
+      "id": "8b-food",
+      "code": "8b",
+      "title": "На кухне",
+      "subtitle": "Еда, напитки и порции",
+      "source": "Рабочая тетрадь: с. 59–60",
+      "words": [
+        {
+          "id": "w-bread",
+          "en": "bread",
+          "ru": "хлеб",
+          "example": "I eat bread for breakfast.",
+          "exampleRu": "Я ем хлеб на завтрак.",
+          "emoji": "🍞"
+        },
+        {
+          "id": "w-milk",
+          "en": "milk",
+          "ru": "молоко",
+          "example": "I drink milk in the morning.",
+          "exampleRu": "Утром я пью молоко.",
+          "emoji": "🥛"
+        },
+        {
+          "id": "w-water",
+          "en": "water",
+          "ru": "вода",
+          "example": "I drink water every day.",
+          "exampleRu": "Я пью воду каждый день.",
+          "emoji": "💧"
+        },
+        {
+          "id": "w-rice",
+          "en": "rice",
+          "ru": "рис",
+          "example": "We have rice for dinner.",
+          "exampleRu": "На ужин у нас рис.",
+          "emoji": "🍚"
+        },
+        {
+          "id": "w-potato",
+          "en": "potato",
+          "ru": "картофелина",
+          "example": "This potato is small.",
+          "exampleRu": "Эта картофелина маленькая.",
+          "emoji": "🥔"
+        },
+        {
+          "id": "w-banana",
+          "en": "banana",
+          "ru": "банан",
+          "example": "I eat a banana for breakfast.",
+          "exampleRu": "На завтрак я ем банан.",
+          "emoji": "🍌"
+        },
+        {
+          "id": "w-carrot",
+          "en": "carrot",
+          "ru": "морковь",
+          "example": "This carrot is orange.",
+          "exampleRu": "Эта морковка оранжевая.",
+          "emoji": "🥕"
+        },
+        {
+          "id": "w-sandwich",
+          "en": "sandwich",
+          "ru": "сэндвич; бутерброд",
+          "example": "I have a sandwich for lunch.",
+          "exampleRu": "На обед у меня бутерброд.",
+          "emoji": "🥪"
+        },
+        {
+          "id": "w-cereal",
+          "en": "cereal",
+          "ru": "хлопья для завтрака",
+          "example": "I have cereal for breakfast.",
+          "exampleRu": "На завтрак я ем хлопья.",
+          "emoji": "🥣"
+        },
+        {
+          "id": "w-sugar",
+          "en": "sugar",
+          "ru": "сахар",
+          "example": "There is sugar in the bowl.",
+          "exampleRu": "В миске есть сахар.",
+          "emoji": "🍬"
+        },
+        {
+          "id": "w-bottle",
+          "en": "bottle",
+          "ru": "бутылка",
+          "example": "This is a bottle of water.",
+          "exampleRu": "Это бутылка воды.",
+          "emoji": "🧴"
+        },
+        {
+          "id": "w-bowl",
+          "en": "bowl",
+          "ru": "миска",
+          "example": "This bowl is blue.",
+          "exampleRu": "Эта миска синяя.",
+          "emoji": "🥣"
+        },
+        {
+          "id": "w-loaf",
+          "en": "loaf",
+          "ru": "буханка",
+          "example": "This is a loaf of bread.",
+          "exampleRu": "Это буханка хлеба.",
+          "emoji": "🍞"
+        }
+      ]
+    },
+    {
+      "module": "8",
+      "id": "8c-birthday",
+      "code": "8c",
+      "title": "День рождения",
+      "subtitle": "Угощения и приглашения",
+      "source": "Рабочая тетрадь: с. 61",
+      "words": [
+        {
+          "id": "w-party",
+          "en": "party",
+          "ru": "вечеринка; праздник",
+          "example": "We have a birthday party today.",
+          "exampleRu": "Сегодня у нас праздник в честь дня рождения.",
+          "emoji": "🎉"
+        },
+        {
+          "id": "w-cake",
+          "en": "cake",
+          "ru": "торт",
+          "example": "This cake is for you.",
+          "exampleRu": "Этот торт для тебя.",
+          "emoji": "🎂"
+        },
+        {
+          "id": "w-ice-cream",
+          "en": "ice cream",
+          "ru": "мороженое",
+          "example": "I like ice cream.",
+          "exampleRu": "Мне нравится мороженое.",
+          "emoji": "🍦"
+        },
+        {
+          "id": "w-lemonade",
+          "en": "lemonade",
+          "ru": "лимонад",
+          "example": "Would you like some lemonade?",
+          "exampleRu": "Хочешь немного лимонада?",
+          "emoji": "🍋"
+        },
+        {
+          "id": "w-sausage",
+          "en": "sausage",
+          "ru": "сосиска",
+          "example": "I have a sausage for lunch.",
+          "exampleRu": "На обед у меня сосиска.",
+          "emoji": "🌭"
+        },
+        {
+          "id": "w-biscuit",
+          "en": "biscuit",
+          "ru": "печенье",
+          "example": "Would you like a biscuit?",
+          "exampleRu": "Хочешь печенье?",
+          "emoji": "🍪"
+        },
+        {
+          "id": "w-good-idea",
+          "en": "good idea",
+          "ru": "хорошая идея",
+          "example": "That is a good idea!",
+          "exampleRu": "Это хорошая идея!",
+          "emoji": "💡"
+        },
+        {
+          "id": "w-that-sounds-great",
+          "en": "that sounds great",
+          "ru": "звучит здорово",
+          "example": "That sounds great!",
+          "exampleRu": "Звучит здорово!",
+          "emoji": "🤩"
+        }
+      ]
+    },
+    {
+      "module": "9",
+      "id": "9a-shopping",
+      "code": "9a",
+      "title": "Идём за покупками",
+      "subtitle": "Городские магазины",
+      "source": "Рабочая тетрадь: с. 65",
+      "words": [
+        {
+          "id": "w-shop",
+          "en": "shop",
+          "ru": "магазин",
+          "example": "This shop is small.",
+          "exampleRu": "Этот магазин небольшой.",
+          "emoji": "🛍️"
+        },
+        {
+          "id": "w-toy-shop",
+          "en": "toy shop",
+          "ru": "магазин игрушек",
+          "example": "The toy shop is on the ground floor.",
+          "exampleRu": "Магазин игрушек на нижнем этаже.",
+          "emoji": "🧸"
+        },
+        {
+          "id": "w-bookshop",
+          "en": "bookshop",
+          "ru": "книжный магазин",
+          "example": "The bookshop is next to the cinema.",
+          "exampleRu": "Книжный магазин рядом с кинотеатром.",
+          "emoji": "📚"
+        },
+        {
+          "id": "w-bakery",
+          "en": "bakery",
+          "ru": "пекарня",
+          "example": "I buy bread at the bakery.",
+          "exampleRu": "Я покупаю хлеб в пекарне.",
+          "emoji": "🥖"
+        },
+        {
+          "id": "w-florist-s",
+          "en": "florist's",
+          "ru": "цветочный магазин",
+          "example": "We buy flowers at the florist's.",
+          "exampleRu": "Мы покупаем цветы в цветочном магазине.",
+          "emoji": "💐"
+        },
+        {
+          "id": "w-chemist-s",
+          "en": "chemist's",
+          "ru": "аптека",
+          "example": "The chemist's is near my house.",
+          "exampleRu": "Аптека рядом с моим домом.",
+          "emoji": "💊"
+        },
+        {
+          "id": "w-newsagent-s",
+          "en": "newsagent's",
+          "ru": "газетный киоск; магазин прессы",
+          "example": "Dad buys a newspaper at the newsagent's.",
+          "exampleRu": "Папа покупает газету в магазине прессы.",
+          "emoji": "📰"
+        },
+        {
+          "id": "w-jeweller-s",
+          "en": "jeweller's",
+          "ru": "ювелирный магазин",
+          "example": "The jeweller's sells rings.",
+          "exampleRu": "В ювелирном магазине продают кольца.",
+          "emoji": "💍"
+        },
+        {
+          "id": "w-buy",
+          "en": "buy",
+          "ru": "покупать",
+          "example": "I want to buy a book.",
+          "exampleRu": "Я хочу купить книгу.",
+          "emoji": "🛍️"
+        },
+        {
+          "id": "w-pair",
+          "en": "pair",
+          "ru": "пара",
+          "example": "I need a pair of shoes.",
+          "exampleRu": "Мне нужна пара туфель.",
+          "emoji": "👟"
+        }
+      ]
+    },
+    {
+      "module": "9",
+      "id": "9b-places",
+      "code": "9b",
+      "title": "Куда пойдём?",
+      "subtitle": "Места для впечатлений",
+      "source": "Рабочая тетрадь: с. 66",
+      "words": [
+        {
+          "id": "w-cinema",
+          "en": "cinema",
+          "ru": "кинотеатр",
+          "example": "We go to the cinema on Sunday.",
+          "exampleRu": "В воскресенье мы идём в кинотеатр.",
+          "emoji": "🎬"
+        },
+        {
+          "id": "w-theatre",
+          "en": "theatre",
+          "ru": "театр",
+          "example": "We see a play at the theatre.",
+          "exampleRu": "Мы смотрим спектакль в театре.",
+          "emoji": "🎭"
+        },
+        {
+          "id": "w-museum",
+          "en": "museum",
+          "ru": "музей",
+          "example": "The museum is interesting.",
+          "exampleRu": "Музей интересный.",
+          "emoji": "🏛️"
+        },
+        {
+          "id": "w-art-gallery",
+          "en": "art gallery",
+          "ru": "художественная галерея",
+          "example": "We see paintings at the art gallery.",
+          "exampleRu": "Мы смотрим картины в художественной галерее.",
+          "emoji": "🖼️"
+        },
+        {
+          "id": "w-theme-park",
+          "en": "theme park",
+          "ru": "тематический парк развлечений",
+          "example": "We have fun at the theme park.",
+          "exampleRu": "Мы веселимся в тематическом парке развлечений.",
+          "emoji": "🎢"
+        },
+        {
+          "id": "w-concert-hall",
+          "en": "concert hall",
+          "ru": "концертный зал",
+          "example": "We listen to music at the concert hall.",
+          "exampleRu": "Мы слушаем музыку в концертном зале.",
+          "emoji": "🎶"
+        },
+        {
+          "id": "w-zoo",
+          "en": "zoo",
+          "ru": "зоопарк",
+          "example": "We see animals at the zoo.",
+          "exampleRu": "Мы смотрим на животных в зоопарке.",
+          "emoji": "🦒"
+        },
+        {
+          "id": "w-quiet",
+          "en": "quiet",
+          "ru": "тихий; тихо",
+          "example": "Please be quiet.",
+          "exampleRu": "Пожалуйста, веди себя тихо.",
+          "emoji": "🤫"
+        }
+      ]
+    },
+    {
+      "module": "9",
+      "id": "9c-films",
+      "code": "9c",
+      "title": "Не пропусти фильм",
+      "subtitle": "Фильмы и впечатления",
+      "source": "Рабочая тетрадь: с. 67",
+      "words": [
+        {
+          "id": "w-film",
+          "en": "film",
+          "ru": "фильм",
+          "example": "This film is funny.",
+          "exampleRu": "Этот фильм смешной.",
+          "emoji": "🎬",
+          "aliases": [
+            "movie"
+          ]
+        },
+        {
+          "id": "w-comedy",
+          "en": "comedy",
+          "ru": "комедия",
+          "example": "This comedy is great.",
+          "exampleRu": "Эта комедия замечательная.",
+          "emoji": "😄"
+        },
+        {
+          "id": "w-cartoon",
+          "en": "cartoon",
+          "ru": "мультфильм",
+          "example": "I like this cartoon.",
+          "exampleRu": "Мне нравится этот мультфильм.",
+          "emoji": "🍿"
+        },
+        {
+          "id": "w-hero",
+          "en": "hero",
+          "ru": "герой",
+          "example": "The hero saves the world.",
+          "exampleRu": "Герой спасает мир.",
+          "emoji": "🦸"
+        },
+        {
+          "id": "w-spy",
+          "en": "spy",
+          "ru": "шпион",
+          "example": "The film is about a spy.",
+          "exampleRu": "Этот фильм о шпионе.",
+          "emoji": "🕵️"
+        },
+        {
+          "id": "w-boring",
+          "en": "boring",
+          "ru": "скучный",
+          "example": "This film is boring.",
+          "exampleRu": "Этот фильм скучный.",
+          "emoji": "🥱"
+        },
+        {
+          "id": "w-perfect",
+          "en": "perfect",
+          "ru": "идеальный; превосходный",
+          "example": "This film is perfect for children.",
+          "exampleRu": "Этот фильм идеально подходит детям.",
+          "emoji": "⭐"
+        },
+        {
+          "id": "w-rescue",
+          "en": "rescue",
+          "ru": "спасать",
+          "example": "The toys rescue the animals.",
+          "exampleRu": "Игрушки спасают животных.",
+          "emoji": "🦸"
+        }
+      ]
+    },
+    {
+      "module": "10",
+      "id": "10a-travel",
+      "code": "10a",
+      "title": "Путешествуем",
+      "subtitle": "Куда и на чём отправимся?",
+      "source": "Рабочая тетрадь: с. 71",
+      "words": [
+        {
+          "id": "w-cruise",
+          "en": "cruise",
+          "ru": "круиз",
+          "example": "We go on a cruise in summer.",
+          "exampleRu": "Летом мы отправляемся в круиз.",
+          "emoji": "🚢"
+        },
+        {
+          "id": "w-beach-holiday",
+          "en": "beach holiday",
+          "ru": "пляжный отдых",
+          "example": "I like a beach holiday.",
+          "exampleRu": "Мне нравится пляжный отдых.",
+          "emoji": "🏖️"
+        },
+        {
+          "id": "w-safari",
+          "en": "safari",
+          "ru": "сафари",
+          "example": "We can take photos on a safari.",
+          "exampleRu": "На сафари мы можем фотографировать.",
+          "emoji": "🦒"
+        },
+        {
+          "id": "w-activity-holiday",
+          "en": "activity holiday",
+          "ru": "активный отдых",
+          "example": "We want an activity holiday.",
+          "exampleRu": "Мы хотим активного отдыха.",
+          "emoji": "🚴"
+        },
+        {
+          "id": "w-sightseeing-tour",
+          "en": "sightseeing tour",
+          "ru": "обзорная экскурсия",
+          "example": "We go on a sightseeing tour.",
+          "exampleRu": "Мы отправляемся на обзорную экскурсию.",
+          "emoji": "🏙️"
+        },
+        {
+          "id": "w-coach",
+          "en": "coach",
+          "ru": "междугородний автобус",
+          "example": "We travel by coach.",
+          "exampleRu": "Мы путешествуем на междугороднем автобусе.",
+          "emoji": "🚌"
+        },
+        {
+          "id": "w-ship",
+          "en": "ship",
+          "ru": "корабль",
+          "example": "This ship is big.",
+          "exampleRu": "Этот корабль большой.",
+          "emoji": "🚢"
+        },
+        {
+          "id": "w-train",
+          "en": "train",
+          "ru": "поезд",
+          "example": "We travel by train.",
+          "exampleRu": "Мы путешествуем на поезде.",
+          "emoji": "🚆"
+        },
+        {
+          "id": "w-car",
+          "en": "car",
+          "ru": "машина",
+          "example": "We travel by car.",
+          "exampleRu": "Мы путешествуем на машине.",
+          "emoji": "🚗"
+        },
+        {
+          "id": "w-bike",
+          "en": "bike",
+          "ru": "велосипед",
+          "example": "I ride my bike in the park.",
+          "exampleRu": "Я катаюсь на велосипеде в парке.",
+          "emoji": "🚲"
+        },
+        {
+          "id": "w-motorbike",
+          "en": "motorbike",
+          "ru": "мотоцикл",
+          "example": "My uncle has got a motorbike.",
+          "exampleRu": "У моего дяди есть мотоцикл.",
+          "emoji": "🏍️"
+        },
+        {
+          "id": "w-take-photos",
+          "en": "take photos",
+          "ru": "фотографировать",
+          "example": "I like to take photos.",
+          "exampleRu": "Мне нравится фотографировать.",
+          "emoji": "📸"
+        }
+      ]
+    },
+    {
+      "module": "10",
+      "id": "10b-summer",
+      "code": "10b",
+      "title": "Летние приключения",
+      "subtitle": "Занятия и впечатления",
+      "source": "Рабочая тетрадь: с. 72",
+      "words": [
+        {
+          "id": "w-hiking",
+          "en": "hiking",
+          "ru": "пешие походы",
+          "example": "I like hiking in the mountains.",
+          "exampleRu": "Мне нравятся пешие походы в горы.",
+          "emoji": "🥾"
+        },
+        {
+          "id": "w-fishing",
+          "en": "fishing",
+          "ru": "рыбалка",
+          "example": "My dad likes fishing.",
+          "exampleRu": "Моему папе нравится рыбалка.",
+          "emoji": "🎣"
+        },
+        {
+          "id": "w-windsurfing",
+          "en": "windsurfing",
+          "ru": "виндсёрфинг",
+          "example": "My brother likes windsurfing.",
+          "exampleRu": "Моему брату нравится виндсёрфинг.",
+          "emoji": "🏄"
+        },
+        {
+          "id": "w-scuba-diving",
+          "en": "scuba diving",
+          "ru": "подводное плавание с аквалангом",
+          "example": "I want to try scuba diving.",
+          "exampleRu": "Я хочу попробовать плавание с аквалангом.",
+          "emoji": "🤿"
+        },
+        {
+          "id": "w-jet-skiing",
+          "en": "jet skiing",
+          "ru": "катание на водном мотоцикле",
+          "example": "My uncle likes jet skiing.",
+          "exampleRu": "Моему дяде нравится катание на водном мотоцикле.",
+          "emoji": "🌊"
+        },
+        {
+          "id": "w-white-water-rafting",
+          "en": "white water rafting",
+          "ru": "сплав по бурной реке",
+          "example": "We want to try white water rafting.",
+          "exampleRu": "Мы хотим попробовать сплав по бурной реке.",
+          "emoji": "🚣",
+          "aliases": [
+            "white-water rafting"
+          ]
+        },
+        {
+          "id": "w-exciting",
+          "en": "exciting",
+          "ru": "увлекательный; захватывающий",
+          "example": "This holiday is exciting.",
+          "exampleRu": "Эти каникулы увлекательные.",
+          "emoji": "🤩"
+        },
+        {
+          "id": "w-relaxing",
+          "en": "relaxing",
+          "ru": "расслабляющий",
+          "example": "Fishing is relaxing.",
+          "exampleRu": "Рыбалка помогает расслабиться.",
+          "emoji": "🌿"
+        },
+        {
+          "id": "w-tiring",
+          "en": "tiring",
+          "ru": "утомительный",
+          "example": "Hiking can be tiring.",
+          "exampleRu": "Пешие походы могут быть утомительными.",
+          "emoji": "🥾"
+        },
+        {
+          "id": "w-dangerous",
+          "en": "dangerous",
+          "ru": "опасный",
+          "example": "This game is dangerous.",
+          "exampleRu": "Эта игра опасная.",
+          "emoji": "⚠️"
+        }
+      ]
+    },
+    {
+      "module": "10",
+      "id": "10c-note",
+      "code": "10c",
+      "title": "Самочувствие и просьбы",
+      "subtitle": "Полезные фразы на каникулах",
+      "source": "Рабочая тетрадь: с. 73",
+      "words": [
+        {
+          "id": "w-headache",
+          "en": "headache",
+          "ru": "головная боль",
+          "example": "I have got a headache.",
+          "exampleRu": "У меня болит голова.",
+          "emoji": "🤕"
+        },
+        {
+          "id": "w-toothache",
+          "en": "toothache",
+          "ru": "зубная боль",
+          "example": "I have got a toothache.",
+          "exampleRu": "У меня болит зуб.",
+          "emoji": "🦷"
+        },
+        {
+          "id": "w-stomachache",
+          "en": "stomachache",
+          "ru": "боль в животе",
+          "example": "I have got a stomachache.",
+          "exampleRu": "У меня болит живот.",
+          "emoji": "🤒",
+          "aliases": [
+            "stomach ache"
+          ]
+        },
+        {
+          "id": "w-sunburn",
+          "en": "sunburn",
+          "ru": "солнечный ожог",
+          "example": "I have got sunburn.",
+          "exampleRu": "У меня солнечный ожог.",
+          "emoji": "☀️"
+        },
+        {
+          "id": "w-airport",
+          "en": "airport",
+          "ru": "аэропорт",
+          "example": "We go to the airport by car.",
+          "exampleRu": "Мы едем в аэропорт на машине.",
+          "emoji": "✈️"
+        },
+        {
+          "id": "w-certainly",
+          "en": "certainly",
+          "ru": "конечно; разумеется",
+          "example": "Certainly, I can help you.",
+          "exampleRu": "Конечно, я могу тебе помочь.",
+          "emoji": "👍"
+        },
+        {
+          "id": "w-yes-sure",
+          "en": "yes, sure",
+          "ru": "да, конечно",
+          "example": "Yes, sure, I can come.",
+          "exampleRu": "Да, конечно, я могу прийти.",
+          "emoji": "🤝",
+          "aliases": [
+            "yes sure"
+          ]
+        },
+        {
+          "id": "w-reasonable",
+          "en": "reasonable",
+          "ru": "разумный; приемлемый",
+          "example": "That price is reasonable.",
+          "exampleRu": "Это приемлемая цена.",
+          "emoji": "🪙"
+        }
+      ]
+    }
+  ],
+  "sourceNote": "Тематическая подборка слов и фраз по загруженным материалам Spotlight 5. Учебник содержит Starter и модули 1–2; модули 3–10 составлены по рабочей тетради. Это стартовый словарь, а не полная оцифровка всех слов учебника. Примеры предложений и переводы составлены для тренажёра.",
+  "sources": [
+    {
+      "name": "Angliyskiy_yazyk_Elektron._uchebnik_dlya_5_klassa_po_FOOP.pdf",
+      "pdfPages": 45,
+      "scope": "Starter и модули 1–2"
+    },
+    {
+      "name": "5_kl_Spotlight_Workbook.pdf",
+      "pdfPages": 90,
+      "scope": "Starter и модули 1–10"
+    }
+  ]
+}
