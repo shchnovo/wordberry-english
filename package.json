@@ -1,0 +1,21 @@
+{
+  "name": "ulyasha-word-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Spotlight 5 vocabulary practice with private child profiles and Netlify progress storage",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.4"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "linkedom": "0.18.12"
+  }
+}
